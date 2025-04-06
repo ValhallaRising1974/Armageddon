@@ -1,3 +1,5 @@
+[🔙 Voltar para Armageddon](../README.md)
+
 # 🕯️ Elsbethy – A Bruxa Esquelética Gigante
 
 **Classe**: Gigante do Evento Armageddon  
