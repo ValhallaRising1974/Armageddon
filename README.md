@@ -1,4 +1,4 @@
-# Armageddon
+# Armageddon - Esbeth
 
 PT-BR
 
