@@ -1,9 +1,11 @@
-// Java – Armageddon System with Buff Activation and PvP Pause
+// PrimaverilSystem.java
+// Evento Armaggeddon - Sistema com pausa de PvP, votação e ativação de buff
+// Criado por Marcelo | Valhalla Rising – The Parchment
 
 class Player {
     String name;
-    boolean hasBuff = false;
-    boolean atBase = false;
+    boolean hasBuff = false;  // Indica se o jogador já ativou o buff
+    boolean atBase = false;   // Indica se o jogador retornou à base
 
     public Player(String name) {
         this.name = name;
@@ -15,6 +17,7 @@ class Player {
     }
 
     public void activateBuff() {
+        // Ativa o buff quando o jogador retorna à base
         if (atBase) {
             hasBuff = true;
             System.out.println(name + " has activated the buff!");
@@ -23,7 +26,7 @@ class Player {
 }
 
 class PvPManager {
-    boolean pvpActive = true;
+    boolean pvpActive = true;  // Estado atual do PvP
 
     public void pausePvp() {
         pvpActive = false;
@@ -36,6 +39,7 @@ class PvPManager {
     }
 
     public void sendAudioMessage() {
+        // Simula o envio de mensagem de áudio para votação
         System.out.println("[AUDIO] Une géante Armaggeddon est apparue. Voulez-vous l'affronter ? Votez maintenant !");
     }
 }
@@ -50,6 +54,7 @@ public class GameSimulation {
 
         pvp.sendAudioMessage();
         if (voteTeam1 >= 3 || voteTeam2 >= 3) {
+            // Caso a maioria aceite o combate
             pvp.pausePvp();
             System.out.println("Buff will be available after returning to base.");
             for (Player p : players) {
