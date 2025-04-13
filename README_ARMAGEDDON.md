@@ -100,7 +100,7 @@ Please refer to each Gigante's `.md` file for detailed lore, stats, and visuals.
 ## 🧾 Credits
 
 **Created by:** Marcelo dos Santos Prado  
-**Design and World-Building:** Marcelo & Lyra (ChatGPT)  
+**Design and World-Building:** Marcelo
 **Languages:** Portuguese, English, French  
 **Status:** Fully documented – Code phase pending
 
