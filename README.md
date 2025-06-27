@@ -33,13 +33,6 @@ This repository contains files, concepts and logic related to the **Armageddon e
 
 ---
 
-## 🇨🇦 VERSION FR-CA ↓
-
-## 🧩 Introduction (FR-CA)  
-_Armageddon est une anomalie cosmique — la rupture de l’équilibre_
-
-
-
 Armageddon – Elsbeth (DE)
 Elsbeth war eine Älteste vom Planeten Tártaros, wo sie dem Gott Krom diente – kalt und erbarmungslos. Einst war sie eine Frau mit normalen Proportionen, doch ihre Schriftrollen wurden vom Zauberer Wolfgard gestohlen, der stets ihre Position als Mittlerin Kroms begehrte. Der Planet Tártaros wurde mit eiserner Faust von Krom regiert, und das Volk lebte in ständiger Verzweiflung.
 
@@ -55,6 +48,11 @@ Krom gewährte Elsbeth das Wort. In Flammen der Wahrheit bekannte sie ihre Liebe
 
 Frey und Freya retteten Elsbeth im letzten Moment, doch ihre Seele war zerbrochen. Um ihr eine zweite Chance zu geben, brachten sie sie nach Valhalla Rising – The Parchment, in das Event Armageddon, wo sie sich selbst erlösen kann. Sobald sie heilt, wird sie in eine Welt des Friedens und der Stille gesandt...
 
+
+## 🇨🇦 VERSION FR-CA ↓
+
+## 🧩 Introduction (FR-CA)  
+_Armageddon est une anomalie cosmique — la rupture de l’équilibre_
 Français - Paris - Canada
 
 Elsbeth est une ancienne de la planète Tartaros, alors qu'elle sert le dieu froid et impitoyable Krom ; Elsbeth était une personne de proportions normales, jusqu'à ce que ses parchemins soient usurpés par le sorcier Wolfgard, qui a toujours convoité la position d'Elsbeth, car elle était un intermédiaire pour le dieu Krom ; la planète Tartaros était dirigée d'une main de fer par Krom et la population était toujours désespérée ; Elsbeth fut émue par la douleur des citoyens, jusqu'au jour où elle s'allia à une autre aînée, Morgana Le Fey ; les deux ont créé des élixirs pour donner du courage au peuple pour se soulever contre Krom et ainsi mettre fin à son règne de terreur et de désespoir ; ce qu'Elsbeth n'imaginait pas, c'est que Morgane était l'amante de Wolfgarh et toutes les informations qu'Elsbeth partageait avec Morgane, Wolfgarh les découvrit et ainsi, adultéra les élixirs d'Elsbeth ; La population tenait Elsbeth en haute estime et lui faisait confiance, ils buvaient les élixirs, mais l'effet était inverse : ils commencèrent à s'entretuer ! Morgane feignit le désespoir et quitta la scène et Wolgarh avait créé l'élixir qui guérissait les effets de la fureur et de l'irrationalité des personnes qui avaient souffert de l'élixir frelaté d'Elsbeth ; Krom prit conscience et ordonna qu'Elsbeth soit exécutée sur une place publique et Wolfgarh devint le héros acclamé, qui sauva tout le monde de la folie et assuma la position de maître aîné, qui appartenait à Elsbeth ; Elsbeth fut enchaînée, fouettée et emmenée en prison, où au milieu de la nuit, Morgana et Wolfgard se rendirent dans sa cellule et révélèrent le sabotage à Elsbeth ; Marquée par la douleur de la déception et de la trahison, Elsbeth commença à crier irrationnellement jusqu'à ce qu'elle soit réduite au silence par les sorts combinés de Morgana et Wolfgard ; A l'aube, Elsbeth, enchaînée, fut emmenée au milieu de la plus grande place de Tartaros, où les gens l'attaquèrent, avec des mots et des jets d'objets sur elle ; Elsbeth a été attachée à une plate-forme remplie de bois de chauffage pour être brûlée vive ! Krom ordonna d'allumer le feu, mais Elsbethy cria, lui parlant du droit au dernier mot ; Krom lui refusa ce droit et soudain, une lumière apparut, qui illumina tout l'endroit ; c'étaient les frères et sœurs Frey et Freya, s'adressant à Krom, lui rappelant son statut divin de dieu de ce monde et que le rôle de chaque dieu était d'imposer la justice, non la haine, la vengeance et de favoriser la trahison ; Krom écouta ses frères et donna la parole à Elsbethy, qui dit qu'elle aimait Krom, parce qu'elle le considérait comme fort et juste, mais qu'au fil des millénaires, il devint égoïste et avide ; favorisant les actes de trahison, de violence et tout fardeau de mal et d’injustice ; Elsbethy a révélé qu'elle était exécutée pour la trahison de Morgana et Wolfgahr et que Krom, le dieu, devrait découvrir la vérité avant de prendre parti dans l'exécution ; Krom sourit ironiquement et dit aux frères Frey et Freya de ne pas intervenir et ainsi, il ordonna que le feu soit allumé, brûlant Elsbethy, qui hurla de douleur et d'agonie ; Frey et Freya l'ont sauvée avant qu'elle ne meure, mais l'âme d'Elsbethy avait été perdue dans la douleur et la folie ; Les frères décidèrent donc de l'emmener à Valhalla Rising - Le Parchemin, lors de l'événement Armeggeddon, afin qu'elle puisse se racheter et qu'une fois rétablie, elle soit envoyée dans un monde plein de paix et de sérénité...
